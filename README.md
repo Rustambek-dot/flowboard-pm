@@ -32,17 +32,20 @@ Supabase (schema + seed) → Vercel (env vars) → deploy. See [DEPLOYMENT.md](D
 ## License
 MIT
 
-## Screenshots
+## Как пользоваться (Usage guide)
 
-### Landing
+### 1. Лендинг
 ![Landing](screenshots/landing.png)
+Обзор инструмента. Вход: `demo@example.com / Demo123!`.
 
-### Board
+### 2. Kanban-доска
 ![Board](screenshots/board.png)
+Перетаскивайте карточки между колонками мышью. На карточке: точка приоритета, цветные метки, счётчики подзадач и комментариев, аватар исполнителя, дедлайн. Фильтр по исполнителю сверху.
 
-### Planner
+### 3. AI-планировщик
 ![Planner](screenshots/planner.png)
+Опишите фичу → **Decompose** — список подзадач с оценками в часах и суммой. Опишите цель проекта → **Generate Plan** — фазы с задачами и вехами на timeline. Работает без API-ключей.
 
-### Team
+### 4. Аналитика команды
 ![Team](screenshots/team.png)
-
+Velocity по спринтам и баланс нагрузки (открытые/закрытые задачи по каждому участнику) — перекосы видны до выгорания.
