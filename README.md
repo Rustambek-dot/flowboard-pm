@@ -31,3 +31,18 @@ Supabase (schema + seed) → Vercel (env vars) → deploy. See [DEPLOYMENT.md](D
 
 ## License
 MIT
+
+## Screenshots
+
+### Landing
+![Landing](screenshots/landing.png)
+
+### Board
+![Board](screenshots/board.png)
+
+### Planner
+![Planner](screenshots/planner.png)
+
+### Team
+![Team](screenshots/team.png)
+
